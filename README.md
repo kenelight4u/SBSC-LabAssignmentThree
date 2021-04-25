@@ -7,4 +7,4 @@ There is an operator in c#, capable of providing the remainder of a division ope
 Example:
 remainder(1, 3) ➞ 1
 
-NOTE: Clone the repo, the assignment will be found inside the "src" folder
+NOTE: The assignment will be found inside the "src" folder
